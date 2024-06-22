@@ -49,5 +49,5 @@ async function main() {
 }
 
 main();
-getData()
-sortData()
+getData();
+sortData();

@@ -1,0 +1,17 @@
+.course-info {
+    border: 1px solid #ccc;
+    padding: 20px;
+    margin: 10px;
+    background-color: #f9f9f9;
+    border-radius: 4px;
+}
+
+.course-info h2 {
+    margin-bottom: 10px;
+    font-size: 24px;
+}
+
+.course-info p {
+    font-size: 16px;
+    line-height: 1.5;
+}
